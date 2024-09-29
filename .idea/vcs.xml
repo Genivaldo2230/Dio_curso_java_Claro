@@ -2,8 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Conta--Bancaria" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Curso_dio_java/src/Trilha java basic Tipos de Variavel/DIO-TRILHA-JAVA-BASIC" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/java-anatomia-classes" vcs="Git" />
   </component>
 </project>
