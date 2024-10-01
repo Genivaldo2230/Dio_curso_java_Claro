@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="primeirasemana/|Smart_Tv/|controleFluxos/|tipos_de_variavel/" kind="src" path="Curso_dio_java/src"/>
+	<classpathentry kind="src" path="Curso_dio_java/src/controleFluxos"/>
+	<classpathentry kind="src" path="Curso_dio_java/src/primeirasemana"/>
+	<classpathentry kind="src" path="Curso_dio_java/src/Smart_Tv"/>
+	<classpathentry kind="src" path="Curso_dio_java/src/tipos_de_variavel"/>
+	<classpathentry kind="src" path="debbug_java/src"/>
+	<classpathentry kind="output" path="out/production/Curso_dio_java"/>
+</classpath>
