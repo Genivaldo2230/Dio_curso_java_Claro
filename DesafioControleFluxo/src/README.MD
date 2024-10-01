@@ -73,7 +73,7 @@ O programa espera dois números inteiros como entrada. O primeiro número repres
 Contribuições são bem-vindas! Abra um issue para reportar problemas ou sugestões de melhorias.
 
 ## Autores
-* Seu Nome (seu_email@example.com)
+* Genivaldo Alves Dos Anjos (gda_anjos@hotmail.com)
 ```
 
 
